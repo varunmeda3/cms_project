@@ -1,0 +1,15 @@
+{
+    "name": "nibun/cms_project",
+    "description": "A simple content management system",
+    "autoload": {
+        "psr-4": {
+            "Nibun\\CmsProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicholas Bun"
+        }
+    ],
+    "require": {}
+}
